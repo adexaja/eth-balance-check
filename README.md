@@ -15,4 +15,4 @@ Results:
 Total ETH at epoch 1672531200: 94851.11017114860748882 ETH
 Total execution time: 1521.45 seconds or Estimate 25 to 26 minutes in Macbook AIR 2020 M1
 
-![Performance Summary](./shot.png)
+![Performance Summary](https://github.com/adexaja/eth-balance-check/blob/main/Shot.png)
